@@ -16,8 +16,8 @@ This repo is to save the exercises I solved from rustlings.
 | move_semantics         | §4.1:heavy_check_mark: |
 | primitive_types        | §4.3:heavy_check_mark: |
 | structs                | §5.1:heavy_check_mark: |
-| enums                  | §6                     |
-| modules                | §7.2                   |
+| enums                  | §6:heavy_check_mark:   |
+| modules                | §7.2:heavy_check_mark: |
 | collections            | §8.1                   |
 | strings                | §8.2                   |
 | error_handling         | §9                     |
