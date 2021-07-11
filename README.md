@@ -18,7 +18,7 @@ This repo is to save the exercises I solved from rustlings.
 | structs                | §5.1:heavy_check_mark: |
 | enums                  | §6:heavy_check_mark:   |
 | modules                | §7.2:heavy_check_mark: |
-| collections            | §8.1                   |
+| collections            | §8.1:heavy_check_mark: |
 | strings                | §8.2                   |
 | error_handling         | §9                     |
 | generics               | §10                    |
