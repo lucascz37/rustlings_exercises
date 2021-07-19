@@ -20,7 +20,7 @@ This repo is to save the exercises I solved from rustlings.
 | modules                | §7.2:heavy_check_mark: |
 | collections            | §8.1:heavy_check_mark: |
 | strings                | §8.2:heavy_check_mark: |
-| error_handling         | §9                     |
+| error_handling         | §9:heavy_check_mark:   |
 | generics               | §10                    |
 | option                 | §10.1                  |
 | traits                 | §10.2                  |
