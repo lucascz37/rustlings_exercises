@@ -21,7 +21,7 @@ This repo is to save the exercises I solved from rustlings.
 | collections            | §8.1:heavy_check_mark: |
 | strings                | §8.2:heavy_check_mark: |
 | error_handling         | §9:heavy_check_mark:   |
-| generics               | §10                    |
+| generics               | §10:heavy_check_mark:  |
 | option                 | §10.1                  |
 | traits                 | §10.2                  |
 | tests                  | §11.1                  |
