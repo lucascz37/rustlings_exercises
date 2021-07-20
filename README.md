@@ -23,7 +23,7 @@ This repo is to save the exercises I solved from rustlings.
 | error_handling         | §9:heavy_check_mark:   |
 | generics               | §10:heavy_check_mark:  |
 | option                 | §10.1:heavy_check_mark:|
-| traits                 | §10.2                  |
+| traits                 | §10.2:heavy_check_mark:|
 | tests                  | §11.1                  |
 | standard_library_types | §13.2                  |
 | threads                | §16.1                  |
