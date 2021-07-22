@@ -26,7 +26,7 @@ This repo is to save the exercises I solved from rustlings.
 | traits                 | §10.2:heavy_check_mark:|
 | tests                  | §11.1:heavy_check_mark:|
 | standard_library_types | §13.2:heavy_check_mark:|
-| threads                | §16.1                  |
+| threads                | §16.1:heavy_check_mark:|
 | macros                 | §19.6                  |
 | clippy                 | n/a                    |
 | conversions            | n/a                    |
