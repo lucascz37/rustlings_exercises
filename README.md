@@ -29,7 +29,7 @@ This repo is to save the exercises I solved from rustlings.
 | threads                | §16.1:heavy_check_mark:|
 | macros                 | §19.6:heavy_check_mark:|
 | clippy                 | n/a:heavy_check_mark:  |
-| conversions            | n/a                    |
+| conversions            | n/a:heavy_check_mark:  |
 
 <br/>
 
