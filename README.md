@@ -28,7 +28,7 @@ This repo is to save the exercises I solved from rustlings.
 | standard_library_types | §13.2:heavy_check_mark:|
 | threads                | §16.1:heavy_check_mark:|
 | macros                 | §19.6:heavy_check_mark:|
-| clippy                 | n/a                    |
+| clippy                 | n/a:heavy_check_mark:  |
 | conversions            | n/a                    |
 
 <br/>
